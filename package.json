@@ -12,7 +12,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "pdfjs-dist": "^4.0.379",
     "file-saver": "^2.0.5"
   }
 }
