@@ -25,6 +25,9 @@ class GymTracker {
                 <div class="upload-icon">📄</div>
                 <h3>Carica la tua scheda PDF</h3>
                 <p>Trascina qui il file PDF o clicca per selezionarlo</p>
+                <div class="demo-note">
+                  💡 <strong>Demo:</strong> Al momento viene mostrata una scheda di esempio per testare l'interfaccia
+                </div>
                 <input type="file" id="pdf-input" accept=".pdf" style="display: none;">
                 <button class="upload-btn" id="upload-btn">Scegli File PDF</button>
               </div>
