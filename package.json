@@ -1,5 +1,5 @@
 {
-  "name": "code",
+  "name": "gym-tracker",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -11,5 +11,8 @@
   "devDependencies": {
     "vite": "^5.4.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "pdfjs-dist": "^4.0.379",
+    "file-saver": "^2.0.5"
+  }
 }
